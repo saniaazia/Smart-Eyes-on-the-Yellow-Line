@@ -1,0 +1,6 @@
+paths:
+  cam1:
+    source: YOUR RTSP PATH
+
+  cam2:
+    source: YOUR RTSP PATH
