@@ -33,6 +33,3 @@ Step4.2: Create a google sheet and follow the steps below:
     Step4.3: Make sure VLC is installed and both VSC and VLC are of the latest version.
 
 Step5: Run the main file. Hope it works for you!
-
-
-
